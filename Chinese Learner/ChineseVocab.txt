@@ -1,0 +1,152 @@
+你好  nǐhǎo  Hello
+我  wǒ  I
+那  nà  That
+这  zhè  This
+什么  shénme  What
+人  rén  People
+也  yě  Also
+口  kǒu  Mouth
+日  rì  Day
+明  míng  Bright
+明白  míngbai  Understand
+不  bù  No
+吗  ma  (Type of question)
+一口  yīkǒu  A bite
+白  bái  White
+再  zài  Again
+见  jiàn  See
+再见  zāijiàn  See you again
+你  nǐ  You
+好  hǎo  Good
+人口  rénkǒu  Population
+国  guó  Country
+国王  guówáng  King
+中  zhōng  Middle
+哈  hā  Ha
+是  shì  Is/Am/Are
+谢谢  xièxie  Thanks
+饿  è  Hungry
+大  dà  Big
+小  xiao  Small
+哪儿  nǎr  Where
+哪个  nǎge  Which
+为什么  wèishénme  Why
+怎么  zhěnme  How
+呢  ne  And you?
+姓  xìng  Last Name
+很  hěn  Very
+高兴  gāoxing  Happy
+高  gāo  High/tall
+和  hé  And
+喝  hē  Drink
+吃  chī  Eat
+鱼  yú  Fish
+苗条  miàntiáo  Noodle
+咖啡  kāfēi  Coffee
+茶  chá  Tea
+水  shuǐ  Water
+米饭  mǐfàn  Cooked rice
+饭  fàn  Rice
+爱  ài  Love
+零  líng  Zero
+多  duō  Many
+少  shǎo  Less
+多少  duōshǎo  How much
+钱  qián  Money
+女  nǚ  Woman
+要  yāo  Want
+块  kuài  Unit
+他  tā  He
+她  tā  She
+它  tā  It
+我们  wǒmen  We
+你们  nǐmen  You
+他们  tāmen  They
+门  mén  Gate/door
+学生  xuéshēng  Student
+同学  tóngxué  Classmate
+老师  lǎoshī  Teacher
+医生  yīshēng  Doctor
+两  liǎng  Two
+个  gè  (Generic classifier)
+对  duì  correct
+都  dōu  All
+死  sǐ  Death
+女儿  nǚér  Daughter
+儿子  érzi  Son
+王子  wángzǐ  Prince
+月  yuè  Moon
+胖  pàng  Fat
+半  bàn  Half
+孩子  háizi  Child
+恨  hèn  Hate
+骂  mà  To scold
+认识  rènshi  Recognise
+吧  ba  Right?
+可以  kěyǐ  Can
+马  mǎ  Horse
+妈妈  māma  Mom
+爸爸  bàba  Dad
+小姐  xiǎojie  Young lady
+姐姐  jiějie  Older sister
+哥哥  gēge  Older brother
+叫  jiào  Call
+帅  shuài  Handsome
+弟弟  dìdi  Younger brother
+妹妹  mèimei  Younger sister
+教  jiào  Teach
+字  zì  Letter
+名字  míngzi  Name
+的  de  Of
+给  gěi  Give
+看  kàn  See
+听  tīng  Listen
+因为  yīnwèi  Because
+所以  suǒyǐ  So
+包  bāo  Package
+句子  jùzi  Sentence
+狗  gǒu  Dog
+猫  māo  Cat
+忙  máng  Busy
+早上  zǎoshang  Morning
+您  nín  You (Polite)
+岁  suì  Years (Classier)
+小心  xiǎoxīn  To be careful
+家  jiā  Home
+在  zài  In
+今天  jīntiān  Today
+开  kāi  To open
+开始  kāishǐ  To begin/start
+关  guān  To close
+关心  guānxīn  Care
+怎么样  zěnmeyàng  How is it going?
+做  zuò  To do
+作  zuò  To make
+作业  zuòyè  Homework
+工作  gōngzuò  To work
+意思  yìsi  Meaning
+住  zhù  Live
+关系  guānxi  Relationship
+昨天  zuótiān  Yesterday
+明天  míngtiān  Tomorrow
+号  hào  Number
+懂  dǒng  Understand
+星期  xīngqī  Week
+用  yòng  Need/Use
+写  xiě  To write
+会  huì  Able
+中文  zhōngwén  Chinese
+爱好  àihào  Hobby
+朋友  péngyou  Friend
+男  nán  Male
+右边  yòubian  Right
+左边  zuǒbian  Left
+有  yǒu  Have
+有名  yǒumíng  Famous
+可爱  kěài  Cute
+喜欢  xǐhuan  Like
+还  hái  Still
+还是  háishi  Or (question
+拿  ná  To hold/To take
+说  shuō  To speak
+这样  zhèyàng  Like this
